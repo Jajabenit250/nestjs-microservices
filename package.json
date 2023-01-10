@@ -1,0 +1,23 @@
+{
+  "name": "nestjs-microservices",
+  "version": "1.0.0",
+  "description": "Nest Hybrid Microservices Boilerplate ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jajabenit250/nestjs-microservices.git"
+  },
+  "keywords": [
+    "Nestjs",
+    "Microservices"
+  ],
+  "author": "Benit Havugimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jajabenit250/nestjs-microservices/issues"
+  },
+  "homepage": "https://github.com/Jajabenit250/nestjs-microservices#readme"
+}
